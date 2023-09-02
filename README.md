@@ -17,7 +17,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 **Background:** Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and program manager for system infrastructure development projects
 
-**Personal Info:** I live in Pittsburgh with my wife and 11-month-old baby.
+**Personal Info:** I live in Pittsburgh with my wife and baby.
 
 # What I hope to learn
 
