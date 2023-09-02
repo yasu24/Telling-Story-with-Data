@@ -2,7 +2,7 @@
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
 Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/](url)
+- Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/]([url](https://yasu24.github.io/Telling-Story-with-Data/))
 - This repository: [https://github.com/yasu24/Telling-Story-with-Data](url)
 
 # Portfolio
