@@ -17,25 +17,15 @@ Program:    MISM-16
 
 Graduating: 2023 Dec
 
-Background: Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and product manager for the infrastructure development projects
+Background: Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and program manager for system infrastructure development projects
 
 # What I hope to learn
 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to improve my persuasiveness
+2. Effective visualization for presentation
+3. Get used to several tools as a side effect
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
