@@ -10,9 +10,13 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
 Name:       Yasuhiro Kawabata
+
 Pronoun:    he/him
+
 Program:    MISM-16
+
 Graduating: 2023 Dec
+
 Background: Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and product manager for the infrastructure development projects
 
 # What I hope to learn
