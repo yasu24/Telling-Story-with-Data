@@ -1,11 +1,10 @@
 # About this page
-This is the portal page about me for the class: Telling Story with Data in Fall 2023
-Links are as below, and it will be kept updating
+This is the portal page about my portfolio for the class, Telling Story with Data, in Fall 2023
 
 - Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/](https://yasu24.github.io/Telling-Story-with-Data/)
 - This repository: [https://github.com/yasu24/Telling-Story-with-Data](https://github.com/yasu24/Telling-Story-with-Data)
 
-# Portfolio
+# About Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  
 
 # About me
