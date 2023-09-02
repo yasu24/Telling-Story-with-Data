@@ -1,18 +1,22 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# About this page
+This is the portal page about me for the class: Telling Story with Data in Fall 2023
+Links are as below, and it will be kept updating
 
 - Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/](https://yasu24.github.io/Telling-Story-with-Data/)
 - This repository: [https://github.com/yasu24/Telling-Story-with-Data](https://github.com/yasu24/Telling-Story-with-Data)
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Name:       Yasuhiro Kawabata
+Pronoun:    he/him
+Program:    MISM-16
+Graduating: 2023 Dec
+Background: Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and product manager for the infrastructure development projects
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+
 
 1. List item #1
 2. List item #2
