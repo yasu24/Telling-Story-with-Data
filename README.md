@@ -9,7 +9,7 @@ Links are as below, and it will be kept updating
 This is my public portfolio for Telling Stories with Data at CMU!  
 
 # About me
-Name:       Yasuhiro Kawabata
+**Name:**       Yasuhiro Kawabata
 
 Pronoun:    he/him
 
