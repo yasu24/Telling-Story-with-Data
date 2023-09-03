@@ -28,11 +28,11 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 # Portfolio
 
-## Assignment: Data Visualization Critiques 
+## Assignment: Data Visualization Critiques(data-visualization-critiques.md) 
 To be updated
 
-## Assignment: Data Visualization Workshops 
+## Assignment: Data Visualization Workshops(data-visualization-workshops.md) 
 To be updated
 
-## Final project
+## Final project(final-project.md)
 To be updated
