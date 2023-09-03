@@ -1,4 +1,4 @@
-# About this page
+# Introduction
 This is the portal page about my portfolio for the class, Telling Story with Data, in Fall 2023
 
 - Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/](https://yasu24.github.io/Telling-Story-with-Data/)
