@@ -16,7 +16,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 **Graduating:** Dec 2023
 
-**Background:** Worked in a financial institution for 12 years as a project manager and program manager for system infrastructure development projects.
+**Background:** Worked in a financial institution for 12 years as a project manager and program manager in the system infrastructure area.
 
 **Personal Info:** I live in Pittsburgh with my wife and baby.
 
