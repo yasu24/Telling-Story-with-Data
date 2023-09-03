@@ -12,7 +12,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 **Program:**    MISM-16
 
-**Graduating:** 2023 Dec
+**Graduating:** Dec 2023
 
 **Background:** Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and program manager for system infrastructure development projects
 
@@ -26,10 +26,10 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 # Portfolio
 
-## Assignment: 
+## Assignment: Data Visualization Critiques 
 To be updated
 
-## Assignment 3&4: 
+## Assignment: Data Visualization Workshops 
 To be updated
 
 ## Final project
