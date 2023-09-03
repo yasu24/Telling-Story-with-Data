@@ -1,3 +1,5 @@
+| [home page](https://yasu24.github.io/Telling-Story-with-Data/) | [Data Visualization Critiques](data-visualization-critiques.md) | [Data Visualization Workshops](data-visualization-workshops.md) | [final project I](URL) |
+
 # Introduction
 This is the portal page about my portfolio for the class, Telling Story with Data, in Fall 2023
 
