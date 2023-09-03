@@ -16,7 +16,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 **Graduating:** Dec 2023
 
-**Background:** Worked in a Japanese financial institution(7 years in Japan and 5 years in the UK) as a project manager and program manager for system infrastructure development projects
+**Background:** Worked in a financial institution for 12 years as a project manager and program manager for system infrastructure development projects.
 
 **Personal Info:** I live in Pittsburgh with my wife and baby.
 
