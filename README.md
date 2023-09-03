@@ -35,4 +35,8 @@ To be updated
 To be updated
 
 ## [Final project](final-project)
-To be updated
+Part I: a project proposal.
+
+Part II: Sketches, wireframes, storyboards.
+
+Part III: Final deliverable and presentation.
