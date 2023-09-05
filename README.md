@@ -40,3 +40,10 @@ Part I: a project proposal.
 Part II: Sketches, wireframes, storyboards.
 
 Part III: Final deliverable and presentation.
+
+## Test upload
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/14927045"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
