@@ -32,7 +32,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 To be updated
 
 ## Assignment: [Data Visualization Workshops](data-visualization-workshops) 
-To be updated
+<iframe src="https://data.oecd.org/chart/7be9" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7be9" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
 ## [Final project](final-project)
 Part I: a project proposal.
