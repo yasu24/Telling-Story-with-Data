@@ -16,4 +16,4 @@ Part 3
 
 Part 4
 
-<a href="https://prod-useast-b.online.tableau.com/#/site/datavisualizationworkshopsfortswd/workbooks/XXXXXX?:origin=card_share_link">Tableauのビジュアル</a>
+<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/datavisualizationworkshopsfortswd/views/OECD_Debt/Debtviz' width='1440' height='688' hide-tabs toolbar='bottom' ></tableau-viz>
