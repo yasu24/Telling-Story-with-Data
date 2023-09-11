@@ -33,13 +33,7 @@ To be updated
 
 ## Assignment: [Data Visualization Workshops](data-visualization-workshops) 
 
-Part 1
-
-<iframe src="https://data.oecd.org/chart/7be9" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7be9" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
-
-Part 2
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/14976326"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+All deliverables are updated on the page.
 
 ## [Final project](final-project)
 Part I: a project proposal.
