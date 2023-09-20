@@ -64,18 +64,20 @@ Based on the reflection of the second pie chart, I went deeper with a pie chart.
 # Step four: Test the solution
 
 I created the three suggested diagrams as above. I asked some people around me including utilizing the chance in-class activity. 
-The comments were gathered from 3 x 20s Students, and 1 x 30s adult. 
+The comments were gathered from 3 x 20s Students, and 1 x 30s adult with showing all diagrams and explanations. 
 
 ### - Can you tell me what you think this is?
 It looks like a share of produced electricity.
+It shows the electricity produced from several sources.
 
 ### - Can you describe to me what this is telling you?
 It seems like a comparison for 2 years(2021 and 2022)
+The original diagram is misleading, but it says more visually impactful, but the current diagram looks more accurate, so it depends on the audience which diagram to show.
 
 ### - Is there anything you find surprising or confusing?
 Is it about the world? or for One Country? (The target is unclear)
-The pie chart is easier to understand, but it doesn't tell a comparison
-If there are both charts, bar chart, and pie chart, it would be more helpful
+The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated.
+If there are both charts, which str bar chart, and pie chart together, it would be more helpful
 
 ### - Who do you think is the intended audience for this?
 It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation.
