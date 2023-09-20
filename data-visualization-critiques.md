@@ -19,7 +19,7 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 # Step two: critique the data visualization
 
-## The facts I'd like to mention about this diagram
+## The facts about this diagram
 
 - The diagram lacks clarity on whether the changes are based on percentages or absolute values(it shows actually absolute values)
 
@@ -48,14 +48,15 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 # Step three: sketch out a solution
 
-
-
+As discussed so far, I believe it would be better to show the absolute value instead of a broken pie chart with visually beautiful pictures. The first idea I hit on was to show simple bar charts both for 2022 and 2021 using contrasted colors. In my understanding, the creator of the original chart wants to focus on the renewable resource, so I highlighted them with different colors.
 
 <img src="BarChart.png" width="800"/>
 
+The second idea is to show the simple pie chart, which means fixing the unclear parentage part on the original chart. Also, the same as the first chart, I tried to highlight renewable energy, so I picked and created another pie chart. Lastly, I put the percentage of change of the absolute value. However, this doesn't fix some points I mentioned, such as "percentage is unclear if it's for absolute value or share" etc. 
 
 <img src="SimplePieChart.png" width="800"/>
 
+Based on the reflection of the second pie chart, I went deeper with a pie chart. Unfortunately, I don't believe it's a good visualization eventually. I tried to show the change from 2021 to 2022, but it was hard to describe the 2% change in the electricity produced using a pie chart. Therefore, I had to show it with the number, which is not visualization. The deliverable is as below.
 
 <img src="DoublePieChart.png" width="800"/>
 
