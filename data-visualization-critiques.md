@@ -10,16 +10,38 @@ This repository: [https://github.com/yasu24/Telling-Story-with-Data/data-visuali
 # Step one: find a data visualization
 The visualization and data I found are as below.
 
-Title: What Electricity Sources Power the World?
+Title: [What Electricity Sources Power the World?](https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/)
 
-URL: [https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/](https://www.energyinst.org/statistical-review)
+Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/](https://www.energyinst.org/statistical-review)
 
--> Data Source: Statistical Review of World Energy Data: [Link to Excel data download](https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
+-> Data file: Statistical Review of World Energy Data: [Link to Excel data download](https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
 
 
 # Step two: critique the data visualization
 
+## The facts I'd like to mention about this diagram
 
+- The diagram lacks clarity on whether the changes are based on percentages or absolute values(it shows actually absolute values)
+
+- The total electricity production in 2022 increased by 2.3% compared to 2021, which isn't highlighted in the visualization
+
+- In its current broken pie chart, it's challenging to discern the exact percentages. For instance, the section representing renewable energy is labeled as 14.4%. However, upon quick calculation, the actual area of the circle seems to represent only 9.8%.
+
+- It appears as though they might be emphasizing the need for cleaner energy sources by making traditional energy sources appear larger than they are
+
+## The consideration and critique of this diagram
+
+- The visualization is comprehensible for those lacking a critical eye for diagrams, however, we cannot distinguish between Natural gas, Hydroelectric, and wind as they are similar pictures
+
+- Based on the visualization, one might perceive a smaller representation of renewable energy and a larger emphasis on coal and natural gas, with nuclear energy appearing to be on a declining trend.
+
+- The immediate takeaway for many would likely be, "We are still predominantly using traditional energy sources for electricity." This would be followed by a sentiment that there's a pressing need to transition to renewable energy
+
+- If the creator's primary intent was to highlight changes, a bar chart would have been more appropriate
+
+- If the goal was to showcase percentages, a simple pie chart would be the optimal choice.
+
+- It seems the creator prioritized aesthetics over clarity, but there are alternative ways to present the data attractively, such as integrating visuals into a bar chart. Overall, the current presentation raises some doubts about its intent. 
 
 
 # Step three: sketch out a solution
