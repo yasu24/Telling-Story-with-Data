@@ -11,8 +11,12 @@ This repository: https://github.com/yasu24/Telling-Story-with-Data/data-visualiz
 The visualization and data I found are as below.
 
 Title: What Electricity Sources Power the World?
+
 URL: [https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/](https://www.energyinst.org/statistical-review)
-Data Source: Statistical Review of World Energy Data(https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
+
+Data Source: Statistical Review of World Energy Data**(https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
+
+** Link to Excel data downlod
 
 
 # Step two: critique the data visualization
