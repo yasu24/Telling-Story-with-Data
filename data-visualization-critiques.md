@@ -53,6 +53,7 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 
 
+<img src="./path-to-your-image.png](https://github.com/yasu24/Telling-Story-with-Data/blob/main/BarChart.png" width="200"/>
 
 
 
