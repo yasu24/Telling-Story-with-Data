@@ -48,15 +48,15 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 # Step three: sketch out a solution
 
-As discussed so far, I believe it would be better to show the absolute value instead of a broken pie chart with visually beautiful pictures. The first idea I hit on was to show simple bar charts both for 2022 and 2021 using contrasted colors. In my understanding, the creator of the original chart wants to focus on the renewable resource, so I highlighted them with different colors.
+From our discussions, it seems more effective to present absolute values rather than a fragmented pie chart adorned with visuals. My initial approach was to use simple bar charts for both 2022 and 2021, differentiating them with contrasting colors. Noting the original chart's emphasis on renewable resources, I took the liberty to accentuate them using distinct shades.
 
 <img src="BarChart.png" width="800"/>
 
-The second idea is to show the simple pie chart, which means fixing the unclear parentage part on the original chart. Also, the same as the first chart, I tried to highlight renewable energy, so I picked and created another pie chart. Lastly, I put the percentage of change of the absolute value. However, this doesn't fix some points I mentioned, such as "percentage is unclear if it's for absolute value or share" etc. 
+My subsequent concept revolved around refining the pie chart and rectifying ambiguities in percentage representation from the original. As with the bar chart, I underscored renewable energy, designing an alternative pie chart to reflect this emphasis. I also incorporated the percentage change in absolute value, although it doesn't fully resolve ambiguities like the uncertain basis of the percentages—whether they denote absolute values or shares.
 
 <img src="SimplePieChart.png" width="800"/>
 
-Based on the reflection of the second pie chart, I went deeper with a pie chart. Unfortunately, I don't believe it's a good visualization eventually. I tried to show the change from 2021 to 2022, but it was hard to describe the 2% change in the electricity produced using a pie chart. Therefore, I had to show it with the number, which is not visualization. The deliverable is as below.
+Based on the reflection of the second pie chart, I went deeper with a pie chart. However, I found its limitations evident when visualizing nuances, such as the 2% change in electricity production from 2021 to 2022. Such subtleties are hard to depict with a pie chart, leading me to represent it numerically—an approach that, admittedly, diverges from pure visualization. The final output is presented below.
 
 <img src="DoublePieChart.png" width="800"/>
 
