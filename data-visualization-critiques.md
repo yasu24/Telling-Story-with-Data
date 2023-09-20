@@ -89,9 +89,8 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1695231701810');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';
-  // vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  vizElement.style.height=(divElement.offsetWidth*0.95)+'px';
+  vizElement.style.width='150%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
