@@ -63,37 +63,46 @@ Based on the reflection of the second pie chart, I went deeper with a pie chart.
 
 # Step four: Test the solution
 
-I created the three suggested diagrams as above. 　Then I asked some people around me including utilizing the chance in-class activity. 　
+I created the three suggested diagrams as above.
+
+Then I asked some people around me including utilizing the chance in-class activity.
+
 The comments were gathered from 3 x 20s Students, and 1 x 30s adult with showing all diagrams and explanations. 
 
-### - Can you tell me what you think this is?
-It looks like a share of produced electricity
+### Can you tell me what you think this is?
+- It looks like a share of produced electricity
 
-It shows the electricity produced from several sources
+- It shows the electricity produced from several sources
 
-### - Can you describe to me what this is telling you?
-It seems like a comparison for 2 years(2021 and 2022)
+### Can you describe to me what this is telling you?
+- It seems like a comparison for 2 years(2021 and 2022)
 
-The original diagram is misleading, but it says more visually impactful, but the current diagram looks more accurate, so it depends on the audience which diagram to show.
+- The original diagram is misleading, but it says more visually impactful, but the current diagram looks more accurate, so it depends on the audience which diagram to show.
 
-### - Is there anything you find surprising or confusing?
-Is it about the world? or for One Country? (The target is unclear)
+### Is there anything you find surprising or confusing?
+- Is it about the world? or for One Country? (The target is unclear)
 
-The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated
+- The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated
 
-If there are both charts, which are bar chart, and pie chart together, it would be more helpful
+- If there are both charts, which are bar chart, and pie chart together, it would be more helpful
 
-### - Who do you think is the intended audience for this?
-It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation
+### Who do you think is the intended audience for this?
+- It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation
 
-Probably people who are interested in an environmental related issues
+- Probably people who are interested in environmental-related issues
 
-### - Is there anything you would change or do differently?
-Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)
+### Is there anything you would change or do differently?
+- Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)
 
-It would be better if you can change the color to gray for the unfocused parts
+- It would be better if you can change the color to gray for the unfocused parts
 
 # Step five: Step five: Build the solution
+
+Reflecting on the feedback provided, I created the new proposed diagram to show the electricity produced change from 2021 to 2022.
+
+I chose the bar chart as pie charts are tricky to improve and need more consideration. 
+
+Therefore, I applied the shading to the unfocused part and only focusing the renewable energy part to gather the reader's focus.
 
 <div class='tableauPlaceholder' id='viz1695231701810' style='position: relative'>
   <noscript>
