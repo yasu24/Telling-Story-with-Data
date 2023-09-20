@@ -10,7 +10,9 @@ This repository: [data-visualization-critiques](data-visualization-critiques.md)
 # Step one: find a data visualization
 The visualization and data I found are as below.
 
-Title: [What Electricity Sources Power the World?](https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/)
+Title and source: [What Electricity Sources Power the World?](https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/)
+
+<img src="Electricity-Sources-by-Fuel-in-2022_07272023.jpeg" width="800"/>
 
 Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/](https://www.energyinst.org/statistical-review)
 
