@@ -63,6 +63,28 @@ Based on the reflection of the second pie chart, I went deeper with a pie chart.
 
 # Step four: Test the solution
 
+I created the three suggested diagrams as above. I asked some people around me including utilizing the chance in-class activity. 
+The comments were gathered from 3 x 20s Students, and 1 x 30s adult. 
+
+- Can you tell me what you think this is?
+It looks like a share of produced electricity.
+
+- Can you describe to me what this is telling you?
+It seems like a comparison for 2 years(2021 and 2022)
+
+- Is there anything you find surprising or confusing?
+Is it about the world? or for One Country?(The target is unclear)
+The pie chart is easier to understand, but it doesn't tell a comparison
+If there are both charts, bar chart, and pie chart, it would be more helpful
+
+- Who do you think is the intended audience for this?
+Student: depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation.
+
+- Is there anything you would change or do differently?
+add more years or change the year(to be more clearer for the change e.g. 2022 VS 2012)
+
+
+![image](https://github.com/yasu24/Telling-Story-with-Data/assets/37899661/27c12eae-4b47-4791-9296-6c025355f118)
 
 
 
