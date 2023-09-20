@@ -23,7 +23,7 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 ## The facts about this diagram
 
-- The diagram lacks clarity on whether the changes are based on percentages or absolute values(it shows actually absolute values)
+- The diagram lacks clarity on whether the changes are based on percentages or absolute values(it actually　shows absolute values)
 
 - The total electricity production in 2022 increased by 2.3% compared to 2021, which isn't highlighted in the visualization
 
@@ -50,7 +50,7 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 # Step three: sketch out a solution
 
-From our discussions, it seems more effective to present absolute values rather than a fragmented pie chart adorned with visuals. My initial approach was to use simple bar charts for both 2022 and 2021, differentiating them with contrasting colors. Noting the original chart's emphasis on renewable resources, I took the liberty to accentuate them using distinct shades.
+From our discussions, it seems more effective to present absolute values rather than a fragmented pie chart adorned with visuals. My initial approach was to use simple bar charts for both 2022 and 2021, differentiating them with contrasting colors. Noting the original chart's emphasis on renewable resources, I emphasized them using distinct shades.
 
 <img src="BarChart.png" width="800"/>
 
@@ -72,39 +72,39 @@ Then I asked some people around me including utilizing the chance in-class activ
 The comments were gathered from 3 x 20s Students, and 1 x 30s adult with showing all diagrams and explanations. 
 
 ### Can you tell me what you think this is?
-- It looks like a share of produced electricity
+- (all charts)It looks like a share of produced electricity
 
-- It shows the electricity produced from several sources
+- (all charts)It shows the electricity produced from several sources
 
 ### Can you describe to me what this is telling you?
-- It seems like a comparison for 2 years(2021 and 2022)
+- (bar chart)It seems like a comparison for 2 years(2021 and 2022)
 
-- The original diagram is misleading, but it says more visually impactful, but the current diagram looks more accurate, so it depends on the audience which diagram to show.
+- (bar chart)The original diagram is misleading, but it says more visually impactful, but the current diagram looks more accurate, so it depends on the audience which diagram to show.
 
 ### Is there anything you find surprising or confusing?
-- Is it about the world? or for One Country? (The target is unclear)
+- (Simple pie chart and bar chart)Is it about the world? or for One Country? (The target is unclear)
 
-- The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated
+- (Simple pie chart and double pie chart)The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated
 
-- If there are both charts, which are bar chart, and pie chart together, it would be more helpful
+- (Simple pie chart and bar chart)If there are both charts, which are bar chart, and pie chart together, it would be more helpful
 
 ### Who do you think is the intended audience for this?
-- It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation
+- (Bar chart)It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation
 
-- Probably people who are interested in environmental-related issues
+- (original chart)Probably people who are interested in environmental-related issues
 
 ### Is there anything you would change or do differently?
-- Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)
+- (all charts)Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)
 
-- It would be better if you can change the color to gray for the unfocused parts
+- (bar chart)It would be better if you can change the color to gray for the unfocused parts
 
-# Step five: Step five: Build the solution
+# Step five: Build the solution
 
 Reflecting on the feedback provided, I created the new proposed diagram to show the electricity produced change from 2021 to 2022.
 
-I chose the bar chart as pie charts are tricky to improve and need more consideration. 
+I chose the bar chart as pie charts are tricky to improve and need more consideration　for providing clear explanations. 
 
-Therefore, I applied the shading to the unfocused part and only focusing the renewable energy part to gather the reader's focus.
+Therefore, I applied the shading to the unfocused part and only focused on the renewable energy part to gather the reader's focus.
 
 <div class='tableauPlaceholder' id='viz1695231701810' style='position: relative'>
   <noscript>
