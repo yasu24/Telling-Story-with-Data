@@ -84,7 +84,9 @@ The simple pie chart is easier to understand, but it doesn't tell a comparison, 
 If there are both charts, which are bar chart, and pie chart together, it would be more helpful
 
 ### - Who do you think is the intended audience for this?
-It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation　　
+It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation
+
+Probably people who are interested in an environmental related issues
 
 ### - Is there anything you would change or do differently?
 Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)
