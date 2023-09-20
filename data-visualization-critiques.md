@@ -67,23 +67,28 @@ I created the three suggested diagrams as above. 　Then I asked some people aro
 The comments were gathered from 3 x 20s Students, and 1 x 30s adult with showing all diagrams and explanations. 
 
 ### - Can you tell me what you think this is?
-It looks like a share of produced electricity　　
+It looks like a share of produced electricity
+
 It shows the electricity produced from several sources
 
 ### - Can you describe to me what this is telling you?
-It seems like a comparison for 2 years(2021 and 2022)　　
+It seems like a comparison for 2 years(2021 and 2022)
+
 The original diagram is misleading, but it says more visually impactful, but the current diagram looks more accurate, so it depends on the audience which diagram to show.
 
 ### - Is there anything you find surprising or confusing?
-Is it about the world? or for One Country? (The target is unclear)　　
-The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated　　
+Is it about the world? or for One Country? (The target is unclear)
+
+The simple pie chart is easier to understand, but it doesn't tell a comparison, while a double pie chart is too complicated
+
 If there are both charts, which are bar chart, and pie chart together, it would be more helpful
 
 ### - Who do you think is the intended audience for this?
 It depends on the age, but if it's over 12 years old, it can be understood. But it's easier if there is an explanation　　
 
 ### - Is there anything you would change or do differently?
-Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)　　
+Maybe add more years or change the year(to be clearer for the change e.g. 2022 vs. 2012)
+
 It would be better if you can change the color to gray for the unfocused parts
 
 # Step five: Step five: Build the solution
@@ -111,12 +116,13 @@ It would be better if you can change the color to gray for the unfocused parts
     <param name='filter' value='publish=yes' />
   </object>
 </div>                
+
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1695231701810');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  var vizElement.style.width='100%';
-  var vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
   var scriptElement = document.createElement('script');                    
-  var scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  var vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
