@@ -49,11 +49,11 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 # Step three: sketch out a solution
 
 
-![Sample Image]([./path-to-your-image.png](https://github.com/yasu24/Telling-Story-with-Data/blob/main/BarChart.png))
+![Sample Image]([BarChart.png))
 
 
 
-<img src="./path-to-your-image.png](https://github.com/yasu24/Telling-Story-with-Data/blob/main/BarChart.png" width="200"/>
+<img src="BarChart.png" width="200"/>
 
 
 
