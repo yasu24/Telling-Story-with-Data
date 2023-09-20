@@ -2,9 +2,9 @@
 
 
 # Data Visualization Critiques
-Web page URL: https://yasu24.github.io/Telling-Story-with-Data/data-visualization-critiques.html(https://yasu24.github.io/Telling-Story-with-Data/data-visualization-critiques.html)
+Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/data-visualization-critiques.html](https://yasu24.github.io/Telling-Story-with-Data/data-visualization-critiques.html)
 
-This repository: https://github.com/yasu24/Telling-Story-with-Data/data-visualization-critiques.md(https://github.com/yasu24/Telling-Story-with-Data/data-visualization-critiques.md)
+This repository: [https://github.com/yasu24/Telling-Story-with-Data/data-visualization-critiques.md](https://github.com/yasu24/Telling-Story-with-Data/data-visualization-critiques.md)
 
 
 # Step one: find a data visualization
@@ -14,9 +14,7 @@ Title: What Electricity Sources Power the World?
 
 URL: [https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/](https://www.energyinst.org/statistical-review)
 
-Data Source: Statistical Review of World Energy Data(https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)**
-
-** Link to Excel data downlod
+Data Source: Statistical Review of World Energy Data[Link to Excel data download](https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
 
 
 # Step two: critique the data visualization
