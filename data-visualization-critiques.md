@@ -51,13 +51,13 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 
 
 
-<img src="BarChart.png" width="400"/>
+<img src="BarChart.png" width="800"/>
 
 
-<img src="SimplePieChart.png" width="400"/>
+<img src="SimplePieChart.png" width="800"/>
 
 
-<img src="DoublePieChart.png" width="400"/>
+<img src="DoublePieChart.png" width="800"/>
 
 
 # Step four: Test the solution
