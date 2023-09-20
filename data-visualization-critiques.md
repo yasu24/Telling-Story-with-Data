@@ -49,12 +49,15 @@ Data Source page: [https://www.visualcapitalist.com/electricity-sources-by-fuel-
 # Step three: sketch out a solution
 
 
-![Sample Image]([BarChart.png))
 
 
+<img src="BarChart.png" width="400"/>
 
-<img src="BarChart.png" width="200"/>
 
+<img src="SimplePieChart.png" width="400"/>
+
+
+<img src="DoublePieChart.png" width="400"/>
 
 
 # Step four: Test the solution
