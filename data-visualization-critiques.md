@@ -3,7 +3,8 @@
 
 # Data Visualization Critiques
 .
-
+Web page URL: https://yasu24.github.io/Telling-Story-with-Data/data-visualization-critiques.md
+This repository: https://github.com/yasu24/Telling-Story-with-Data/data-visualization-critiques.md
 
 
 # Step one: find a data visualization (with data you can use!)
