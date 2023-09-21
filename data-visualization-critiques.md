@@ -8,7 +8,7 @@
 
 
 # Step one: find a data visualization
-The visualization and data I found are as below.
+The target visualization and data I found are as below.
 
 Title and source: [What Electricity Sources Power the World?](https://www.visualcapitalist.com/electricity-sources-by-fuel-in-2022/)
 
