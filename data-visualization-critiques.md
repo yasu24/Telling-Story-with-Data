@@ -143,15 +143,11 @@ Therefore, I applied the shading to the unfocused part and only focused on the r
 # Summary
 
 Throughout this project, I critically analyzed a chosen data visualization focusing on energy sources and sought to redesign it. 
-
 My primary motivation for selecting this diagram stems from my observation that the original might subtly guide readers towards a specific viewpoint—specifically, emphasizing the insufficiency of renewable energy utilization.
 
 While I remain neutral on the creator's stance, it's crucial to note that visual presentations can be powerful tools that shape perceptions. 
-
 The original diagram, for instance, could easily lead an uncritical observer in a particular direction, much like the subliminal messages used in other media. 
-
 This influential potential, especially if it veers into ideological or political territory, underscores the importance of ethical data representation.
 
 I embarked on this redesign endeavor to offer a more balanced perspective using the same dataset. 
-
 While I'm curious about how successfully I've achieved this, the journey has been invaluable in fostering a deeper understanding of data visualization's responsibilities and nuances.
