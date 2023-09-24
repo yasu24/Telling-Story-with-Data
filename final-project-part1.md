@@ -2,4 +2,18 @@
 
 # Final Project Part 1
 
+## Outline
+### A high-level summary of your project
+### A project structure that outlines the major elements of your story.
+
+
+## Initial sketches
+
+
+## The data
+
+
+## Method and medium
+
+
 
