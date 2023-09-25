@@ -29,15 +29,17 @@ This is my public portfolio for Telling Stories with Data at CMU!
 # Portfolio
 
 ## Assignment: [Data Visualization Critiques](data-visualization-critiques.md) 
-To be updated
+
+All data and analysis are updated on the page.
 
 ## Assignment: [Data Visualization Workshops](data-visualization-workshops.md) 
 
 All deliverables are updated on the page.
 
-## [Final project](final-project)
-Part I: a project proposal.
+## Final project
 
-Part II: Sketches, wireframes, storyboards.
+### Part I: [a project proposal](final-project-part1.md)
 
-Part III: Final deliverable and presentation.
+### Part II: [Sketches, wireframes, storyboards](final-project-part2.md)
+
+### Part III: [Final deliverable and presentation](final-project-part3.md)
