@@ -29,6 +29,8 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 
 ## Initial sketches
 
+Because the volume of data is huge, I decided the struggle and reflect on the idea using Tableau.
+It wouldn't be an actual tool to consider and think about the idea, but it will be a good tool to find a relationship between data.
 
 
 ## The data and source
