@@ -2,6 +2,10 @@
 
 # Final Project Part 1
 
+Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/Final Project Part1](https://yasu24.github.io/Telling-Story-with-Data/Final Project Part1)
+This repository: [https://github.com/yasu24/Telling-Story-with-Data/Final Project Part1](https://github.com/yasu24/Telling-Story-with-Data/edit/main/final-project-part1.md)
+
+
 ## Outline
 ### A high-level summary of your project
 
@@ -22,7 +26,7 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 
 
 
-## The data
+## The data and source
 [1] Cranford, C. (2023, August 25). States ranked by how strict their gun laws are. Sightmark.com. https://sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are 
 
 [2] Methodology. Everytown Research &amp; Policy. (2023, September 6). https://everytownresearch.org/rankings/methodology/ 
@@ -39,6 +43,8 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 ## Method and medium
 
 My approach is to find the correlation between data using Tableau.
+
+To find any insights to help reduce gun incidents, I would like to I will search for more data that indicates an effective approach.
 
 
 
