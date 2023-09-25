@@ -11,9 +11,10 @@ This repository: [https://github.com/yasu24/Telling-Story-with-Data/Final Projec
 ### A high-level summary of your project
 
 As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023.  [Link](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/president-joe-biden-to-establish-first-ever-white-house-office-of-gun-violence-prevention-to-be-overseen-by-vice-president-kamala-harris/)
+
 Since I came to the US, I watched so much gun-related news, even in Pittsburgh. 
 Because a gun is not familiar in my home country, Japan, I would like to discover this topic, which is the motivation of the project.
-Although it took a long time I am still wondering if I can provide any good information on the topic, but I would like to discuss the "Gun ownership ratio".
+Although it took a long time to see and research if I can provide any good information on the topic, but I would like to focus on the "Gun violence".
 In this project, I would like to find any insight based on crime, regulation, or possibly economic data.
 My purpose of the project is to reduce gun violence and victims, therefore the target audience is assumed to be government people.
 
