@@ -2,7 +2,7 @@
 
 # Final Project Part 1
 
-Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/Final Project Part1](https://yasu24.github.io/Telling-Story-with-Data/Final Project Part1)
+Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/final-project-part1.html](https://yasu24.github.io/Telling-Story-with-Data/final-project-part1.html)
 This repository: [https://github.com/yasu24/Telling-Story-with-Data/Final Project Part1](https://github.com/yasu24/Telling-Story-with-Data/edit/main/final-project-part1.md)
 
 
