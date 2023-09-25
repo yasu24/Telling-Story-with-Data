@@ -24,11 +24,17 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 
 ## The data
 [1] Cranford, C. (2023, August 25). States ranked by how strict their gun laws are. Sightmark.com. https://sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are 
+
 [2] Methodology. Everytown Research &amp; Policy. (2023, September 6). https://everytownresearch.org/rankings/methodology/ 
+
 [3] Waiting periods. Giffords. (2023, June 26). https://giffords.org/lawcenter/gun-laws/policy-areas/gun-sales/waiting-periods/ 
+
 [4] Gun ownership by State 2023. Wisevoter. (2023, May 8). https://wisevoter.com/state-rankings/gun-ownership-by-state/ 
+
 [5] GDP by State. GDP by State | U.S. Bureau of Economic Analysis (BEA). (n.d.). https://www.bea.gov/data/gdp/gdp-state 
+
 [6] Select a State. Rank List: States in Profile. (n.d.). https://www.statsamerica.org/sip/rank_list.aspx?rank_label=pop1&amp;ct=S18 
+
 
 ## Method and medium
 
