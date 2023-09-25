@@ -44,6 +44,7 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 
 [6] Select a State. Rank List: States in Profile. (n.d.). https://www.statsamerica.org/sip/rank_list.aspx?rank_label=pop1&amp;ct=S18 
 
+[7] Global Firearms Holdings. Small Arms Survey. (n.d.). https://www.smallarmssurvey.org/database/global-firearms-holdings 
 
 ## Method and medium
 
