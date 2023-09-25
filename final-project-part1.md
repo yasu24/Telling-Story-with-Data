@@ -46,6 +46,7 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 
 [7] Global Firearms Holdings. Small Arms Survey. (n.d.). https://www.smallarmssurvey.org/database/global-firearms-holdings 
 
+
 ## Method and medium
 
 My approach is to find the correlation between data using Tableau.
