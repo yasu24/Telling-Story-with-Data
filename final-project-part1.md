@@ -32,6 +32,33 @@ I want to focus on which regulation would effectively reduce gun violence. I am 
 Because the volume of data is huge, I decided the struggle and reflect on the idea using Tableau.
 It wouldn't be an actual tool to consider and think about the idea, but it will be a good tool to find a relationship between data.
 
+The initial thought was to compare some data gathered and find any relationship between them.
+However, as shown below, it is simply a normal relationship, such as if the regulation is more strict, the number of incidents is lower.
+<img src="RegulationAndIncidents.png" width="800"/>
+
+Therefore, I have to focus on more specific parts.
+I will go deeper and gather more data in Part 2 and Part 3, but as far as I have, the gun regulation can be categorized as below.
+** The number in the bracket shows the maximum point of the category, so the total point is 50
+
+- (5)Foundational Law	
+- (6)Gun Industry and Product Safety	
+- (8)Guns in Public	
+- (14)Keeping Guns out of the wrong hands	
+- (8)Policing and Civil rights	
+- (9)Sales and Permission
+
+As of now, I focused that which category regulation is more effective, which shows the slope of the trend graph.
+
+The least effective regulation is "Keeping Guns out of the wrong hands".
+
+<img src="LeastEffectiveCategory.png" width="800"/>
+
+On the other hand, the most effective regulation is "Gun Industry and Product Safety".
+
+<img src="MostEffectiveCategory.png" width="800"/>
+
+I would like to dig more and more based on the direction.
+
 
 ## The data and source
 [1] Cranford, C. (2023, August 25). States ranked by how strict their gun laws are. Sightmark.com. https://sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are 
