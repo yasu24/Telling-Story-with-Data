@@ -59,15 +59,20 @@ The story is fragmental at this stage, but it can be one story, I believe.
 ## Initial sketches
 
 Because the volume of data is huge, I decided the struggle and reflect on the idea using Tableau.
-The initial thought was to compare several data gathered and find any relationship between them, like the example below.
+The initial thought was to compare several data gathered and find any relationship between them, like the draft sketch below.
 
-<img src="RegulationAndIncidents.png" width="800"/>
+<img src="SketchDraft.png" width="800"/>
 
-At the bottom left is the comparison between 
-To do that, I will have to focus on more specific parts, rather than considering using general wide data.
+At the top left is the comparison between the "Gun death ratio" and "Regulation" for each state.
+
+To improve it, I will have to focus on more specific parts, rather than considering using general wide data.
+
 If any specific regulation were more strict, the number of incidents would be lower, due to the time constraints.
+
 I will go deeper and gather more data in the project Part 2 and Part 3.
+
 Only the information I found was that gun regulation can be categorized as below.
+
 ** The number in the bracket indicates the maximum number of regulations in the category, so the total point is 50
 
 - (5)Foundational Law	
@@ -79,11 +84,11 @@ Only the information I found was that gun regulation can be categorized as below
 
 As of now, I focused that which category regulation is more effective, which shows the slope of the trend graph.
 
-The least effective regulation is "Keeping Guns out of the wrong hands".
+The least effective regulation is "Keeping Guns out of the wrong hands"(coefficient is -1.06).
 
 <img src="LeastEffectiveCategory.png" width="800"/>
 
-On the other hand, the most effective regulation is "Gun Industry and Product Safety".
+On the other hand, the most effective regulation is "Gun Industry and Product Safety"(coefficient is -2.02).
 
 <img src="MostEffectiveCategory.png" width="800"/>
 
@@ -91,26 +96,40 @@ I would like to dig more and more based on the direction.
 
 
 ## The data and source
-[1] Cranford, C. (2023, August 25). States ranked by how strict their gun laws are. Sightmark.com. https://sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are 
+[1] Which state has what kind of gun-related regulation does it have?
 
-[2] Methodology. Everytown Research &amp; Policy. (2023, September 6). https://everytownresearch.org/rankings/methodology/ 
+Cranford, C. (2023, August 25). States ranked by how strict their gun laws are. Sightmark.com. https://sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are 
 
-[3] Waiting periods. Giffords. (2023, June 26). https://giffords.org/lawcenter/gun-laws/policy-areas/gun-sales/waiting-periods/ 
+[2] Same as [1], how to put the point for the regulation of each state
 
-[4] Gun ownership by State 2023. Wisevoter. (2023, May 8). https://wisevoter.com/state-rankings/gun-ownership-by-state/ 
+Methodology. Everytown Research &amp; Policy. (2023, September 6). https://everytownresearch.org/rankings/methodology/ 
 
-[5] GDP by State. GDP by State | U.S. Bureau of Economic Analysis (BEA). (n.d.). https://www.bea.gov/data/gdp/gdp-state 
+[3] Information about the waiting period, which means once the person buys the gun, how long would it take time to receive it?
 
-[6] Select a State. Rank List: States in Profile. (n.d.). https://www.statsamerica.org/sip/rank_list.aspx?rank_label=pop1&amp;ct=S18 
+Waiting periods. Giffords. (2023, June 26). https://giffords.org/lawcenter/gun-laws/policy-areas/gun-sales/waiting-periods/ 
 
-[7] Global Firearms Holdings. Small Arms Survey. (n.d.). https://www.smallarmssurvey.org/database/global-firearms-holdings 
+[4] Gun ownership ratio data
+
+Gun ownership by State 2023. Wisevoter. (2023, May 8). https://wisevoter.com/state-rankings/gun-ownership-by-state/ 
+
+[5] GDP data for each state
+
+GDP by State. GDP by State | U.S. Bureau of Economic Analysis (BEA). (n.d.). https://www.bea.gov/data/gdp/gdp-state 
+
+[6] Population data for each state
+
+Select a State. Rank List: States in Profile. (n.d.). https://www.statsamerica.org/sip/rank_list.aspx?rank_label=pop1&amp;ct=S18 
+
+[7] Number of guns globally including in the US
+
+Global Firearms Holdings. Small Arms Survey. (n.d.). https://www.smallarmssurvey.org/database/global-firearms-holdings 
 
 
 ## Method and medium
 
-My approach is to find the correlation between data using Tableau.
+My approach is to find the correlation between several kinds of data using Tableau.
 
 To find any insights to help reduce gun incidents, I would like to I will search for more data that indicates an effective approach.
 
-
+This is a good, but deep and difficult theme, therefore I might change the topic afterward.
 
