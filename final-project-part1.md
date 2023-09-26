@@ -20,6 +20,10 @@ My purpose of the project is to reduce gun violence and victims, therefore the t
 
 ### A project structure that outlines the major elements of your story.
 
+Audience Analysis 
+
+<img src="AudienceAnalysis.jpeg" width="800"/>
+
 As far as researched so far, I gathered some data such as,
 - Gun Death Ratio per 100k people
 - Regulation ranking and points including a waiting period
