@@ -14,7 +14,7 @@ As the Whitehouse announced, President Biden established the "Gun Violence Preve
 
 Since I came to the US, I watched so much gun-related news, even in Pittsburgh. 
 Because a gun is not familiar in my home country, Japan, I would like to discover this topic, which is the motivation of the project.
-Although it took a long time to see and research if I can provide any good information on the topic, but I would like to focus on the "Gun violence".
+Although it took a long time to see and research if I can provide any good information on the topic, I would like to focus on "Gun violence".
 In this project, I would like to find any insight based on crime, regulation, or possibly economic data.
 My purpose of the project is to reduce gun violence and victims, therefore the target audience is assumed to be government people.
 
@@ -26,6 +26,10 @@ As far as researched so far, I gathered some data such as,
 - Mass shooting data
 
 I want to focus on which regulation would effectively reduce gun violence. I am focusing on the gun waiting period, but more beneficial indicators could be found through the project.
+Also, I couldn't find the trend data for the number of guns possessed, which implies that information is hidden/protected. No open data is not data, but fact. 
+On the other hand, research in 2018 shows that there are 392 million guns in the US, but only 1 million guns are registered guns.
+Also, I would like to know if a gun can be an alternative to knives, so to clarify it, I will compare the incident using knives in a country where a gun is not common and the US.
+The story is fragmental at this stage, but it can be one story, I believe.
 
 ## Initial sketches
 
