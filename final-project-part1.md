@@ -46,8 +46,6 @@ The absence of open data not only obscures the true facts about gun ownership bu
 
 On the other hand, research in 2018 shows that there are 392 million guns in the US, but only 1 million guns are registered guns.
 
-Also, I would like to know if a gun can be an alternative to knives, so to clarify it, I will compare the incident using knives in a country where a gun is not common and the US.
-
 This lack of transparency and clarity can instill psychological fear in people, leading them to purchase guns for their own protection due to the unknown threats.
 
 Moreover, we can compare the percentage of gun homicides ratio out of all homicides with any other countries where guns are not common. 
