@@ -20,7 +20,7 @@ My purpose of the project is to reduce gun violence and victims, therefore the t
 
 ### A project structure that outlines the major elements of your story.
 
-Audience Analysis 
+####　Audience Analysis 
 
 <img src="AudienceAnalysis.jpeg" width="800"/>
 
@@ -40,13 +40,14 @@ The story is fragmental at this stage, but it can be one story, I believe.
 Because the volume of data is huge, I decided the struggle and reflect on the idea using Tableau.
 It wouldn't be an actual tool to consider and think about the idea, but it will be a good tool to find a relationship between data.
 
-The initial thought was to compare some data gathered and find any relationship between them.
-However, as shown below, it is simply a normal relationship, such as if the regulation is more strict, the number of incidents is lower.
+The initial thought was to compare several data gathered and find any relationship between them.
+However, as shown below, I would like to find a simple relationship, such as if any specific regulation is more strict, the number of incidents will be lower, due to the time constraints.
 <img src="RegulationAndIncidents.png" width="800"/>
 
-Therefore, I have to focus on more specific parts.
-I will go deeper and gather more data in Part 2 and Part 3, but as far as I have, the gun regulation can be categorized as below.
-** The number in the bracket shows the maximum point of the category, so the total point is 50
+To do that, I will have to focus on more specific parts, rather than considering using general wide data.
+I will go deeper and gather more data in the project Part 2 and Part 3.
+Only the information I found was that gun regulation can be categorized as below.
+** The number in the bracket indicates the maximum number of regulations in the category, so the total point is 50
 
 - (5)Foundational Law	
 - (6)Gun Industry and Product Safety	
