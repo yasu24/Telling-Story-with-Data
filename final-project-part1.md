@@ -42,13 +42,13 @@ Particularly, I am focusing on the gun waiting period, but more beneficial indic
 
 Also, I couldn't find the trend data for the number of guns possessed, which implies that information is hidden/protected. 
 
-No open data is not data, but facts that who owns the guns. 
+The absence of open data not only obscures the true facts about gun ownership but also creates an environment of uncertainty.
 
 On the other hand, research in 2018 shows that there are 392 million guns in the US, but only 1 million guns are registered guns.
 
 Also, I would like to know if a gun can be an alternative to knives, so to clarify it, I will compare the incident using knives in a country where a gun is not common and the US.
 
-These situations would lead to being afraid psychologically and buying guns to protect ourselves.
+This lack of transparency and clarity can instill psychological fear in people, leading them to purchase guns for their own protection due to the unknown threats.
 
 Moreover, we can compare the percentage of gun homicides ratio out of all homicides with any other countries where guns are not common. 
 
