@@ -20,7 +20,7 @@ My purpose of the project is to reduce gun violence and victims, therefore the t
 
 ### A project structure that outlines the major elements of your story.
 
-Audience Analysis 
+Audience Analysis is as below. I put separate two lines in it, the one is the people who agree with stronger regulation and the other is against it including non-Americans. 
 
 <img src="AudienceAnalysis.jpeg" width="800"/>
 
@@ -28,21 +28,27 @@ As far as researched so far, I gathered some data such as,
 - Gun Death Ratio per 100k people
 - Regulation ranking and points including a waiting period
 - Mass shooting data
+- GDP for each state and gun industry percentage in GDP
 
-I want to focus on which regulation would effectively reduce gun violence. I am focusing on the gun waiting period, but more beneficial indicators could be found through the project.
-Also, I couldn't find the trend data for the number of guns possessed, which implies that information is hidden/protected. No open data is not data, but fact. 
+The first idea will be to focus on which regulation would effectively reduce gun violence. 
+Particularly, I am focusing on the gun waiting period, but more beneficial indicators could be found later in the project.
+Also, I couldn't find the trend data for the number of guns possessed, which implies that information is hidden/protected. 
+No open data is not data, but facts that who owns the guns. 
 On the other hand, research in 2018 shows that there are 392 million guns in the US, but only 1 million guns are registered guns.
 Also, I would like to know if a gun can be an alternative to knives, so to clarify it, I will compare the incident using knives in a country where a gun is not common and the US.
+These situations would lead to being afraid psychologically and buying guns to protect ourselves.
+Moreover, we can compare the percentage of gun homicides ratio out of all homicides with any other countries where guns are not common. 
+It might provide the effect of having guns when people have a murderous intent.
 The story is fragmental at this stage, but it can be one story, I believe.
 
 ## Initial sketches
 
 Because the volume of data is huge, I decided the struggle and reflect on the idea using Tableau.
-It wouldn't be an actual tool to consider and think about the idea, but it will be a good tool to find a relationship between data.
-
 The initial thought was to compare several data gathered and find any relationship between them.
-However, as shown below, I would like to find a simple relationship, such as if any specific regulation is more strict, the number of incidents will be lower, due to the time constraints.
+
 <img src="RegulationAndIncidents.png" width="800"/>
+
+As shown below, if any specific regulation were more strict, the number of incidents would be lower, due to the time constraints.
 
 To do that, I will have to focus on more specific parts, rather than considering using general wide data.
 I will go deeper and gather more data in the project Part 2 and Part 3.
