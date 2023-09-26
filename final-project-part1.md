@@ -13,14 +13,20 @@ This repository: [https://github.com/yasu24/Telling-Story-with-Data/Final Projec
 As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023.  [Link](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/president-joe-biden-to-establish-first-ever-white-house-office-of-gun-violence-prevention-to-be-overseen-by-vice-president-kamala-harris/)
 
 Since I came to the US, I watched so much gun-related news, even in Pittsburgh. 
+
 Because a gun is not familiar in my home country, Japan, I would like to discover this topic, which is the motivation of the project.
+
 Although it took a long time to see and research if I can provide any good information on the topic, I would like to focus on "Gun violence".
+
 In this project, I would like to find any insight based on crime, regulation, or possibly economic data.
+
 My purpose of the project is to reduce gun violence and victims, therefore the target audience is assumed to be government people.
 
 ### A project structure that outlines the major elements of your story.
 
-Audience Analysis is as below. I put separate two lines in it, the one is the people who agree with stronger regulation and the other is against it including non-Americans. 
+Audience Analysis is as below. 
+
+I put separate two lines in it, the one is the people who agree with stronger regulation and the other is against it including non-Americans. 
 
 <img src="AudienceAnalysis.jpeg" width="800"/>
 
@@ -31,26 +37,35 @@ As far as researched so far, I gathered some data such as,
 - GDP for each state and gun industry percentage in GDP
 
 The first idea will be to focus on which regulation would effectively reduce gun violence. 
+
 Particularly, I am focusing on the gun waiting period, but more beneficial indicators could be found later in the project.
+
 Also, I couldn't find the trend data for the number of guns possessed, which implies that information is hidden/protected. 
+
 No open data is not data, but facts that who owns the guns. 
+
 On the other hand, research in 2018 shows that there are 392 million guns in the US, but only 1 million guns are registered guns.
+
 Also, I would like to know if a gun can be an alternative to knives, so to clarify it, I will compare the incident using knives in a country where a gun is not common and the US.
+
 These situations would lead to being afraid psychologically and buying guns to protect ourselves.
+
 Moreover, we can compare the percentage of gun homicides ratio out of all homicides with any other countries where guns are not common. 
+
 It might provide the effect of having guns when people have a murderous intent.
+
 The story is fragmental at this stage, but it can be one story, I believe.
 
 ## Initial sketches
 
 Because the volume of data is huge, I decided the struggle and reflect on the idea using Tableau.
-The initial thought was to compare several data gathered and find any relationship between them.
+The initial thought was to compare several data gathered and find any relationship between them, like the example below.
 
 <img src="RegulationAndIncidents.png" width="800"/>
 
-As shown below, if any specific regulation were more strict, the number of incidents would be lower, due to the time constraints.
-
+At the bottom left is the comparison between 
 To do that, I will have to focus on more specific parts, rather than considering using general wide data.
+If any specific regulation were more strict, the number of incidents would be lower, due to the time constraints.
 I will go deeper and gather more data in the project Part 2 and Part 3.
 Only the information I found was that gun regulation can be categorized as below.
 ** The number in the bracket indicates the maximum number of regulations in the category, so the total point is 50
