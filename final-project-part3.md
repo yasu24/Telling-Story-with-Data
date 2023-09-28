@@ -1,3 +1,33 @@
 | [Home Page](https://yasu24.github.io/Telling-Story-with-Data/) | [Data Visualization Critiques](data-visualization-critiques.md) | [Data Visualization Workshops](data-visualization-workshops.md) | [Final Project Part1](final-project-part1.md) | [Final Project Part2](final-project-part2.md) | [Final Project Part3](final-project-part3.md) |
 
 # Final Project Part 3
+
+# The final data story
+> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+
+Text here!
+
+# Changes made since Part II
+> Include a few paragraphs that reflect on changes you made since the completion of Part II. 
+
+Text here!
+
+## The audience
+> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+
+Text here!
+
+## Final design decisions
+> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+
+Text here!
+
+## References
+> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyrighted material and that you have added/updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+
+Text here!
+
+# Final thoughts
+> You can summarize any final thoughts/reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+
+Text here!
