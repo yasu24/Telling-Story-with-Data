@@ -7,9 +7,45 @@
 
 ## Wireframes
 
+Story:
 
+As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023. Link
+
+Ever since I moved to the US, I've been exposed to numerous gun-related news stories, including those from Pittsburgh.
+
+Coming from Japan, where guns aren't as prevalent, I would like to discover this topic, which is the motivation of the project.
+
+Given the complexities surrounding American history and culture related to guns, this project will objectively focus on "Gun Violence" rather than debating the merits of gun ownership.
+
+In this project, I would like to find any insight based on crime, regulation, or possibly economic data.
+
+The primary goal of this project is to contribute insights towards reducing gun violence and its victims. As such, the intended audience includes governmental officials and policymakers.
+
+According to the Everytown Gun Law Rankings, the laws are categorized into 6 groups. We are going to focus on which category is the most effective in preventing the death rate and also what kind of laws work and don't work.
+
+Categories
+- Foundational Law
+- Gun Industry and Product Safety
+- Guns in Public
+- Keeping Guns out of the wrong hands
+- Policing and Civil rights
+- Sales and Permitting
+
+Initially, data was compared between "each state's laws" and "the gun death rate per 100k" to clarify which category is the most effective in preventing death using guns.
+
+<img src="2.02_GunIndustry.png" width="800"/>
+
+As shown above, the most efficient category is "Gun Industry and Product Safety". When a regulation is introduced to a state that doesn't have it, the number of deaths is reduced by 2.02 people per 100,000 people.
+On the other hand, the least effective one is "Keeping Guns out of the wrong hands", which has only a 1.07 reduction.
+
+If we focus on each regulation, The biggest impacted law is "Training Required to Purchase Guns", which has 9.09 people per 100,000 people.
+This regulation is implemented in only 9 states, therefore remaining 41 states can reduce the number of deaths potentially.
+Interestingly, the "No Guns in Bars" regulation has the lowest impact with a rate of 0.46, suggesting that restrictions on guns in bars have a lesser influence on gun-related deaths.
+
+It's important to note that this is merely a binary (yes/no) analysis, and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
 
 ## Storyboards
+
 
 
 # User research 
