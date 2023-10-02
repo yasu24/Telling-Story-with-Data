@@ -15,7 +15,7 @@ This unprecedented move comes after a series of tragic shootings and consistent 
 
 Ever since I moved to the US, I've been exposed to numerous gun-related news stories, including those from Pittsburgh.
 
-Coming from Japan, where guns aren't as prevalent, I would like to discover this topic, which is the motivation of the project.
+Coming from Japan, where guns are far less common, my curiosity about this topic spurred this project.
 
 Given the complexities surrounding American history and culture related to guns, this project will objectively focus on "Gun Violence" rather than debating the merits of gun ownership.
 
@@ -59,19 +59,19 @@ As I plan to reside in the U.S. for some time, gaining an understanding of this 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Main target audience are governmental officials and policymakers, but public opinion is created by the public, therefore people in general who are interested in guns regulation are also target audience.
+While the primary target audience is governmental officials and policymakers, public opinion is shaped by the masses. Thus, the general public, especially those concerned with gun regulations, are also considered a significant audience for this project.
 
 ## Interview script
 > List the goals from your research and the questions you intend to ask. 
 
-Main goal of my research is to contribute insights towards reducing gun violence and its victims. 
-Main goal of the interview is to clarify if my explanation is "Understandable", "Informative", and "Enhancement" or not.
+The main goal of my research is to contribute insights towards reducing gun violence and its victims. 
+The main goal of the interview is to clarify if my explanation is "Understandable", "Informative", and "Enhancement" or not.
 
 | Goal | Questions to Ask |
 |------|------------------|
 | Understandable | Did you catch what is the main point of the explanation? |
-| Informative | Did you know get any new insight from the presentation? |
-| Enhancement | Do you have any comment to improve the presentation? |
+| Informative | Did you get any new insight from the presentation? |
+| Enhancement | Were there any parts of the presentation that felt confusing or that could be presented more clearly? |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -80,9 +80,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Did you catch what is the main point of the explanation? | Insightful feedback            |             |             |
+| Did you get any new insight from the presentation? |                                |             |             |
+| Were there any parts of the presentation that felt confusing or that could be presented more clearly? |                                |             |             |
 
 
 # Identified changes for Part 3
