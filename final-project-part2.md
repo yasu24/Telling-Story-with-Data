@@ -23,6 +23,24 @@ In this project, I would like to find any insight based on crime, regulation, or
 
 The primary goal of this project is to contribute insights towards reducing gun violence and its victims. As such, the intended audience includes governmental officials and policymakers.
 
+Logic:
+
+As-Is
+
+We have the regulation ranking and its points for each state.
+
+<img src="SurveyResult.png" width="800"/>
+
+Combined with "the gun death rate per 100k" data, all regulation data has a negative correlation, which means that if any regulation is added, the number of gun deaths will be reduced, which is a great fact.
+
+To-Be
+
+According to the analysis, I would recommend implementing the training program for 41 states, which can lead to the result that around 372 people can be saved per 100k every year. 
+
+Gap
+
+How to implement the regulation? The economic, cultural, or historical difficulties would happen.
+
 According to the Everytown Gun Law Rankings, the laws are categorized into 6 groups. We are going to focus on which category is the most effective in preventing the death rate and also what kind of laws work and don't work.
 
 Categories
