@@ -9,7 +9,9 @@
 
 Story:
 
-As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023. Link
+As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023.
+
+This unprecedented move comes after a series of tragic shootings and consistent public outcry for stricter gun control. 
 
 Ever since I moved to the US, I've been exposed to numerous gun-related news stories, including those from Pittsburgh.
 
@@ -44,6 +46,10 @@ Interestingly, the "No Guns in Bars" regulation has the lowest impact with a rat
 
 It's important to note that this is merely a binary (yes/no) analysis, and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
 
+In conclusion, this analysis has identified specific areas of regulation that can significantly reduce gun-related tragedies. While the current study employed a binary approach, future research would benefit from more nuanced methodologies, such as machine learning, to extract deeper insights from the data. 
+
+As I plan to reside in the U.S. for some time, gaining an understanding of this topic has personal significance, and I look forward to delving further into this critical issue.
+
 ## Storyboards
 
 
@@ -53,21 +59,19 @@ It's important to note that this is merely a binary (yes/no) analysis, and a mor
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Main target audience are governmental officials and policymakers, but public opinion is created by the public, therefore people in general who are interested in guns regulation are also target audience.
 
 ## Interview script
 > List the goals from your research and the questions you intend to ask. 
 
-Text here!
+Main goal of my research is to contribute insights towards reducing gun violence and its victims. 
+Main goal of the interview is to clarify if my explanation is "Understandable", "Informative", and "Enhancement" or not.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| Understandable | Did you catch what is the main point of the explanation? |
+| Informative | Did you know get any new insight from the presentation? |
+| Enhancement | Do you have any comment to improve the presentation? |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
