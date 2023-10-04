@@ -31,6 +31,10 @@ We have the regulation ranking and its points for each state.
 
 <img src="Result.png" width="800"/>
 
+If we make a heatmap based on the result, we can show as is.
+
+<img src="HeatMap.png" width="800"/>
+
 Combined with "the gun death rate per 100k" data, all regulation data has a negative correlation, which means that if any regulation is added, the number of gun deaths will be reduced, which is a great fact.
 
 To-Be
