@@ -20,7 +20,7 @@ In this project, I would like to find any insight based on crime, regulation, or
 
 The primary goal of this project is to contribute insights towards reducing gun violence and its victims. As such, the intended audience includes governmental officials and policymakers.
 
-### Current situation, Data and Facts
+### Current Situation, Data, and Facts
 
 We have the regulation ranking and its points for each state.
 
@@ -92,6 +92,10 @@ It's important to note that this is merely a binary (yes/no) analysis and a more
 In conclusion, this analysis has identified specific areas of regulation that can significantly reduce gun-related tragedies. While the current study employed a binary approach, future research would benefit from more nuanced methodologies, such as machine learning, to extract deeper insights from the data. 
 
 As I plan to reside in the U.S. for some time, gaining an understanding of this topic has personal significance, and I look forward to delving further into this critical issue.
+
+## Draft Shorthand
+
+[Link to Shorthand](https://preview.shorthand.com/vdPO6PZI8yCGN6FB)
 
 
 # User research 
