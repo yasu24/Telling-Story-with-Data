@@ -2,9 +2,9 @@
 
 # Final Project Part 2
 
-Web page URL: https://yasu24.github.io/Telling-Story-with-Data/final-project-part2.html
+Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/final-project-part2.html](https://yasu24.github.io/Telling-Story-with-Data/final-project-part2.html)
 
-This repository: https://github.com/yasu24/Telling-Story-with-Data/Final Project Part2
+This repository: [https://github.com/yasu24/Telling-Story-with-Data/Final Project Part2](https://github.com/yasu24/Telling-Story-with-Data/blob/main/final-project-part2.md)
 
 ## Wireframes/Storyboards
 
