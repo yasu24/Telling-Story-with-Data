@@ -2,6 +2,10 @@
 
 # Final Project Part 2
 
+Web page URL: https://yasu24.github.io/Telling-Story-with-Data/final-project-part2.html
+
+This repository: https://github.com/yasu24/Telling-Story-with-Data/Final Project Part2
+
 ## Wireframes/Storyboards
 
 ### Introduction, Approach, and Goal
