@@ -39,6 +39,13 @@ Combined with "the gun death rate per 100k" data, all regulation data has a nega
 
 <img src="HeatMap_Gun.png" width="800"/>
 
+Though there's a noticeable correlation between Regulation strength and Gun Death Rate, determining causality is more complex. 
+
+Case1. Is the high Gun Death Rate a result of lenient regulations? 
+Case2. Are regulations lenient because regions haven't historically perceived a need for tighter control due to lower gun death rates? 
+
+Distinguishing between these two scenarios is crucial.
+
 To-Be
 
 According to the analysis, I would recommend implementing the training program for 41 states, which can lead to the result that around 372 people can be saved per 100k every year. 
