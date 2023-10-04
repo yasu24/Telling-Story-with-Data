@@ -53,6 +53,7 @@ Combined with "the gun death rate per 100k" data, all regulation data has a nega
 Though there's a noticeable correlation between Regulation strength and Gun Death Rate, determining causality is more complex. 
 
 Case1. Is the high Gun Death Rate a result of lenient regulations? 
+
 Case2. Are regulations lenient because regions haven't historically perceived a need for tighter control due to lower gun death rates? 
 
 Distinguishing between these two scenarios is crucial.
@@ -93,7 +94,7 @@ Interestingly, one of the lowest impact regulations, the "No Guns in Bars" has a
 
 ### Notes and Future Improvement
 
-This calculation ignores the correlation between regulations, therefore there might be impacts because of the combination of some of them.
+This calculation ignores the interactions between regulations, therefore there might be impacts because of the combination of some of them.
 
 It's important to note that this is merely a binary (yes/no) analysis and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
 
@@ -119,12 +120,12 @@ Although I will mention it in the "Identified changes for Part 3" section, a ful
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-While the primary target audience is governmental officials and policymakers, public opinion is shaped by the masses. Thus, the general public, especially those concerned with gun regulations, are also considered a significant audience for this project.
+While the primary target audience is governmental officials and policymakers, public opinion is shaped by the masses. Thus, the general public, especially those concerned with gun regulations, is also considered a significant audience for this project.
 
 ## Interview script
-> List the goals from your research and the questions you intend to ask. 
 
 The main goal of my research is to contribute insights towards reducing gun violence and its victims. 
+
 The main goal of the interview is to clarify if my explanation is "Understandable", "Informative", and "Enhancement" or not.
 
 | Goal | Questions to Ask |
@@ -134,15 +135,12 @@ The main goal of the interview is to clarify if my explanation is "Understandabl
 | Enhancement | Were there any parts of the presentation that felt confusing or that could be presented more clearly? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | 30s adult | 20s student | 20s student |
 |-------------------------|--------------------------------|-------------|-------------|
-| Did you catch what is the main point of the explanation? | Insightful feedback            |             |             |
-| Did you get any new insight from the presentation? |                                |             |             |
-| Were there any parts of the presentation that felt confusing or that could be presented more clearly? |                                |             |             |
+| Did you catch what is the main point of the explanation? | It is still hard to understand with the shorthand. Github story is more helpful as I can capture the logic | Yes, it was clear, but it would be better to use more bigger font or highlighting | Based on the shorthand, bold characters are a little weak to gather the audience's focus, so you need to consider something |
+| Did you get any new insight from the presentation? | I understood which regulation and its category should be focused on | The Fact and message are clear, but the context is unclear | Visualized and categorized regulation is new to me |
+| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the message.  | emphasize the message. use color more effectively as the main color of the first half is black, but the second half is white | More visualization can be added into shorthand. Dynamic visuals can be added. Story order can be reconsidered |
 
 
 # Identified changes for Part 3
