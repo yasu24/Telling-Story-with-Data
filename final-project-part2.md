@@ -102,9 +102,9 @@ As I plan to reside in the U.S. for some time, gaining an understanding of this 
 [Link to Shorthand](https://preview.shorthand.com/vdPO6PZI8yCGN6FB)
 
 ### Note
-This is a 1-minute version, so I omit most of the page. 
+This is a 1-minute version, so I omit most of the story above. 
 
-I will mention it in the "Identified changes for Part 3" section, and I will make a full version.
+Although I will mention it in the "Identified changes for Part 3" section, a full version will be created in part 3(implementation phase).
 
 
 # User research 
