@@ -2,12 +2,7 @@
 
 # Final Project Part 2
 
-# Wireframes/storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing/storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of the story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-## Wireframes
-
-Story:
+## Wireframes/Storyboards
 
 As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023.
 
@@ -23,41 +18,11 @@ In this project, I would like to find any insight based on crime, regulation, or
 
 The primary goal of this project is to contribute insights towards reducing gun violence and its victims. As such, the intended audience includes governmental officials and policymakers.
 
-Logic:
-
-As-Is
-
 We have the regulation ranking and its points for each state.
-
-<div class='tableauPlaceholder' id='viz1696431366848' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='States Ranked by How Strict Their Gun Laws Are ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Category_16964313443170&#47;Regulation&#47;1_rss.png' style='border: none' />
-    </a>
-  </noscript>
-  <object class='tableauViz'  style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-    <param name='embed_code_version' value='3' /> 
-    <param name='site_root' value='' />
-    <param name='name' value='Category_16964313443170&#47;Regulation' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Category_16964313443170&#47;Regulation&#47;1.png' /> 
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='ja-JP' />
-    <param name='filter' value='publish=yes' />
-  </object>
-</div>
 
 <img src="Result.png" width="800"/>
 
 If we make a heatmap based on the result, we can show it as is.
-
-<div class='tableauPlaceholder' id='viz1696433362628' style='position: relative'><noscript><a href='#'><img alt='States Ranked by How Strict Their Gun Laws Are ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Category_16964313443170&#47;HeatMap_reg&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Category_16964313443170&#47;HeatMap_reg' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Category_16964313443170&#47;HeatMap_reg&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
 <img src="HeatMap_Reg.png" width="800"/>
 
@@ -72,11 +37,7 @@ Case2. Are regulations lenient because regions haven't historically perceived a 
 
 Distinguishing between these two scenarios is crucial.
 
-To-Be
-
 According to the analysis, I would recommend implementing the training program for 41 states, which can lead to the result that around 372 people can be saved per 100k every year. 
-
-Gap
 
 How to implement the regulation? The economic, cultural, or historical difficulties would happen.
 
@@ -115,9 +76,6 @@ It's important to note that this is merely a binary (yes/no) analysis and a more
 In conclusion, this analysis has identified specific areas of regulation that can significantly reduce gun-related tragedies. While the current study employed a binary approach, future research would benefit from more nuanced methodologies, such as machine learning, to extract deeper insights from the data. 
 
 As I plan to reside in the U.S. for some time, gaining an understanding of this topic has personal significance, and I look forward to delving further into this critical issue.
-
-## Storyboards
-
 
 
 # User research 
