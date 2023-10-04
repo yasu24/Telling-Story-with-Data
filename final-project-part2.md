@@ -59,6 +59,8 @@ Distinguishing between these two scenarios is crucial.
 
 ### Analysis
 
+<img src="Correlation.png" width="800"/>
+
 According to the analysis, I would recommend implementing the training program for 41 states, which can lead to the result that around 372 people can be saved per 100k every year. 
 
 How to implement the regulation? The economic, cultural, or historical difficulties would happen.
