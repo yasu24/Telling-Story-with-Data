@@ -57,9 +57,13 @@ Case2. Are regulations lenient because regions haven't historically perceived a 
 
 Distinguishing between these two scenarios is crucial.
 
-### Analysis
+At the end of the fact data section, a correlation scatter plot between the two heatmaps above was created.
 
 <img src="Correlation.png" width="800"/>
+
+This trend line indicates that there is a negative correlation between "Regulation strength" and "Gun Death Rate".
+
+### Analysis
 
 According to the analysis, I would recommend implementing the training program for 41 states, which can lead to the result that around 372 people can be saved per 100k every year. 
 
