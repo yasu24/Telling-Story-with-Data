@@ -97,14 +97,15 @@ In conclusion, this analysis has identified specific areas of regulation that ca
 
 As I plan to reside in the U.S. for some time, gaining an understanding of this topic has personal significance, and I look forward to delving further into this critical issue.
 
-## Draft Shorthand
+## Draft Shorthand based on the story and visualization above
 
 [Link to Shorthand](https://preview.shorthand.com/vdPO6PZI8yCGN6FB)
+* Recommended: Right-click the link and select "Open in a new tab"
 
 ### Note
 This is a 1-minute version, so I omit most of the story above. 
 
-Although I will mention it in the "Identified changes for Part 3" section, a full version will be created in part 3(implementation phase).
+Although I will mention it in the "Identified changes for Part 3" section, a full version will be created in Part 3(implementation phase).
 
 
 # User research 
