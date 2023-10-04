@@ -118,9 +118,15 @@ Although I will mention it in the "Identified changes for Part 3" section, a ful
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+In selecting interviewees related to the topic, I prioritized individuals who would likely have a vested interest. 
 
-While the primary target audience is governmental officials and policymakers, public opinion is shaped by the masses. Thus, the general public, especially those concerned with gun regulations, is also considered a significant audience for this project.
+Although I intended to include American perspectives, finding American participants proved challenging due to the time constraint. 
+
+Consequently, I opted for one of my family members from Japan and two international students, anticipating their keen interest in the topic given its global relevance.
+
+My interview approach was straightforward: gauge whether participants could clearly understand and internalize my message. 
+
+To achieve this, I distilled the evaluation process into three essential questions.
 
 ## Interview script
 
