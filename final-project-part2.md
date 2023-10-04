@@ -130,17 +130,17 @@ The main goal of the interview is to clarify if my explanation is "Understandabl
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Understandable | Did you catch what is the main point of the explanation? |
-| Informative | Did you get any new insight from the presentation? |
-| Enhancement | Were there any parts of the presentation that felt confusing or that could be presented more clearly? |
+| Understandable | Did you capture the main objective or message of the explanation? |
+| Informative | Did you gain any new insights from the presentation? |
+| Clear | Were there any parts of the presentation that felt confusing or that could be explained more clearly? |
 
 ## Interview findings
 
-| Questions               | 30s adult | 20s student | 20s student |
+| Questions               | Feedback from 30s adult | Feedback from 20s student-1 | Feedback from 20s student-2 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Did you catch what is the main point of the explanation? | It is still hard to understand with the shorthand. Github story is more helpful as I can capture the logic | Yes, it was clear, but it would be better to use more bigger font or highlighting | Based on the shorthand, bold characters are a little weak to gather the audience's focus, so you need to consider something |
-| Did you get any new insight from the presentation? | I understood which regulation and its category should be focused on | The Fact and message are clear, but the context is unclear | Visualized and categorized regulation is new to me |
-| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the message.  | emphasize the message. use color more effectively as the main color of the first half is black, but the second half is white | More visualization can be added into shorthand. Dynamic visuals can be added. Story order can be reconsidered |
+| Did you capture the main objective or message of the explanation? | It is still hard to understand using the Shorthand version. Github story is more helpful as I can capture the logic | Yes, it was clear, but it would be better to use a large font or highlighting | Based on the shorthand, bold characters are a little weak to gather the audience's focus, so you might want to consider making them bolder or using another method to emphasize them |
+| Did you gain any new insights from the presentation? | I understood which regulation and its category should be focused on | The Fact and message are clear, but the context is unclear | Visualized and categorized regulation is new to me |
+| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the message.  | Emphasize the message. Use colors more effectively. For instance, the main color of the first half is black, while the second half is white | More visualization can be added into shorthand. Dynamic visuals can be added. Story order can be reconsidered |
 
 
 # Identified changes for Part 3
