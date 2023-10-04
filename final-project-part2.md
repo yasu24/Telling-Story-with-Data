@@ -97,9 +97,10 @@ As I plan to reside in the U.S. for some time, gaining an understanding of this 
 
 [Link to Shorthand](https://preview.shorthand.com/vdPO6PZI8yCGN6FB)
 
-<a href="https://preview.shorthand.com/vdPO6PZI8yCGN6FB" target="_blank">
-Link to Shorthand
-</a>
+### Note
+This is a 1-minute version, so I omit most of the page. 
+
+I will mention it in the "Identified changes for Part 3" section, and I will make a full version.
 
 
 # User research 
