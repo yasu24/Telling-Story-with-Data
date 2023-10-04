@@ -156,6 +156,8 @@ I wanted to pick up the comment "Dynamic visuals can be added", but it might be 
 
 Therefore, I will include this point where possible, and remove it from the anticipated changes below.
 
+Also, I might consider adding direct links to Tableau or other tools rather than putting the screenshot.
+
 | Research synthesis                       | Anticipated changes for Part 3                                                  |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Some participants found it challenging to understand using the Shorthand version. | Transition to GitHub Story Format for better clarity. |
