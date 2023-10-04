@@ -166,6 +166,10 @@ Based on the interview feedback above, I will make a full version of shorthand a
 ## Final Thoughts and Summary
 
 I made a story draft including visualization using gathered data on my topic. 
-I have got the several feedback from people and found improvement points, which are ongoing tasks.
-Moreover, I saw some shorthand stories in the class activity, which was much better and more sophisticated than mine, therefore I would like to try to close such quality as much as possible.
+
+I have got the several feedback from people and found improvement points, which are ongoing tasks　in Part 3.
+
+Moreover, I saw some shorthand stories in the class activity, which was much better and more sophisticated than mine.
+
+Therefore I would like to try to close such quality as much as possible.
 
