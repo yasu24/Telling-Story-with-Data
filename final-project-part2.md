@@ -146,27 +146,42 @@ The main goal of the interview is to clarify if my explanation is "Understandabl
 |-------------------------|--------------------------------|-------------|-------------|
 | Did you capture the main objective or message of the explanation? | It is still hard to understand using the Shorthand version. Github story is more helpful as I can capture the logic | Yes, it was clear, but it would be better to use a large font or highlighting | Based on the shorthand, bold characters are a little weak to gather the audience's focus, so you might want to consider making them bolder or using another method to emphasize them |
 | Did you gain any new insights from the presentation? | I understood which regulation and its category should be focused on | The Fact and message are clear, but the context is unclear | Visualized and categorized regulation is new to me |
-| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the message.  | Emphasize the message. Use colors more effectively. For instance, the main color of the first half is black, while the second half is white | More visualization can be added into shorthand. Dynamic visuals can be added. Story order can be reconsidered |
+| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the message.  | Emphasize the message. Use colors more effectively. For instance, the main color of the first half is black, while the second half is white | More visualization can be added and fixed into shorthand(one graph is cut in the middle). Dynamic visuals can be added. Story order can be reconsidered |
 
 
 # Identified changes for Part 3
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on the interview feedback above, I will make a full version of shorthand and fix some issues as below. 
 
 | Research synthesis                       | Anticipated changes for Part 3                                                  |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| Some felt the Shorthand version was too short and lacked comprehensiveness.  | Extend the content in Shorthand for a more comprehensive presentation. |
+| Color usage inconsistency was observed (e.g., black in the first half, white in the second). | Improve color consistency or use color schemes that enhance content readability and engagement. |
+| Issues with visualization, like cut-off graphs, were noticed. | Ensure all visualizations are appropriately displayed, with no cut-offs. |
+| The story's order might not be optimal for some participants.|                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
+
+| Research synthesis                                                                            | Anticipated changes for Part 3                                                  |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Some participants found it challenging to understand using the Shorthand version.          | Transition to GitHub Story Format for better clarity.                           |
+| Bold characters in Shorthand seem ineffective in capturing the audience's attention.              | Reevaluate bold characters in Shorthand and consider enhancing them.             |
+| Disconnect between the message's clarity and the context for some participants.             | Strengthen the context supporting presented facts and messages.                  |
+| The shorthand version felt too brief for comprehensive understanding.                           | Extend Shorthand content or provide supplementary material.                      |
+| Color usage inconsistency observed in the presentation.                                     | Refine and ensure a consistent color scheme throughout the presentation.           |
+| Issues with visualization, like cut-off graphs.                                            | Optimize all visualizations to ensure they're displayed appropriately.          |
+| The story's order might not be optimal for some participants.                               | Revise the narrative structure or flow for better coherence.                     |
+
+
+
+
+
+
+
+
+
 
 > ...include any final thoughts you have here. 
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise, remove this section
-
-Text here!
