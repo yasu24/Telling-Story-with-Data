@@ -107,7 +107,7 @@ As I plan to reside in the U.S. for some time, gaining an understanding of this 
 ## Draft Shorthand based on the story and visualization above
 
 [Link to Shorthand](https://preview.shorthand.com/vdPO6PZI8yCGN6FB)
-* Recommended: Right-click the link and select "Open in a new tab"
+* Recommended: Right-click the link and select "Open Link in New Tab"
 
 ### Note
 This is a 1-minute version, so I omit most of the story above. 
