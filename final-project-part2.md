@@ -53,7 +53,11 @@ Categories
 
 Initially, data was compared between "each state's laws" and "the gun death rate per 100k" to clarify which category is the most effective in preventing death using guns.
 
-<img src="2.02_GunIndustry.png" width="800"/>
+<img src="Coefficiency.png" width="800"/>
+
+And we can highlight the biggest and smallest impact items as below.
+
+<img src="Coef_top_bottom3.png" width="800"/>
 
 As shown above, the most efficient category is "Gun Industry and Product Safety". When a regulation is introduced to a state that doesn't have it, the number of deaths is reduced by 2.02 people per 100,000 people.
 On the other hand, the least effective one is "Keeping Guns out of the wrong hands", which has only a 1.07 reduction.
