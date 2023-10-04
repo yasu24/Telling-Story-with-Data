@@ -144,13 +144,17 @@ The main goal of the interview is to clarify if my explanation is "Understandabl
 
 | Questions               | Feedback from 30s adult | Feedback from 20s student-1 | Feedback from 20s student-2 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Did you capture the main objective or message of the explanation? | It is still hard to understand using the Shorthand version. Github story is more helpful as I can capture the logic | Yes, it was clear, but it would be better to use a large font or highlighting | Based on the shorthand, bold characters are a little weak to gather the audience's focus, so you might want to consider making them bolder or using another method to emphasize them |
-| Did you gain any new insights from the presentation? | I understood which regulation and its category should be focused on | The Fact and message are clear, but the context is unclear | Visualized and categorized regulation is new to me |
-| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the message.  | Emphasize the message. Use colors more effectively. For instance, the main color of the first half is black, while the second half is white | More visualization can be added and fixed into shorthand(one graph is cut in the middle). Dynamic visuals can be added. Story order can be reconsidered |
+| Did you capture the main objective or message of the explanation? | It is still hard to understand using the Shorthand version. Github story is more helpful as I can capture the logic. | Yes, it was clear, but it would be better to use a large font or highlighting. | Based on the shorthand, bold characters are a little weak in gathering the audience's focus, so you might want to consider making them bolder or using another method to emphasize them. |
+| Did you gain any new insights from the presentation? | I understood which regulation and its category should be focused on. | The Fact and message are clear, but the context is unclear on the shorthand version. | Visualized and categorized regulation is new to me. |
+| Were there any parts of the presentation that felt confusing or that could be presented more clearly? | To be more user-friendly. Shorthand should be longer as it is too short and hard to capture the context.  | Emphasize the message. Use colors more effectively. For instance, the main color of the first half is black, while the second half is white, which are inconsistent. | More visualization can be added and fixed into shorthand(one graph is cut in the middle). Dynamic visuals can be added. Story order can be reconsidered |
 
 
 # Identified changes for Part 3
-Based on the interview feedback above, I will make a full version of shorthand and fix some issues as below.                               
+Based on the interview feedback above, I will make a full version of shorthand and fix some issues as below. 
+
+I wanted to pick up the comment "Dynamic visuals can be added", but it might be difficult as there is no time series data. 
+
+Therefore, I will include this point where possible, and remove it from the anticipated changes below.
 
 | Research synthesis                       | Anticipated changes for Part 3                                                  |
 |------------------------------------------|---------------------------------------------------------------------------------|
