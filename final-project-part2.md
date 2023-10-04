@@ -83,6 +83,8 @@ Interestingly, one of the lowest impact regulations, the "No Guns in Bars" has a
 
 ### Notes and Future Improvement
 
+This calculation ignores the correlation between regulations, therefore there might be impacts because of the combination of some of them.
+
 It's important to note that this is merely a binary (yes/no) analysis and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
 
 ### Conclusion
