@@ -4,6 +4,8 @@
 
 ## Wireframes/Storyboards
 
+### Introduction, Approach, and Goal
+
 As the Whitehouse announced, President Biden established the "Gun Violence Prevention Office" in Sep 2023.
 
 This unprecedented move comes after a series of tragic shootings and consistent public outcry for stricter gun control. 
@@ -14,11 +16,25 @@ Coming from Japan, where guns are far less common, my curiosity about this topic
 
 Given the complexities surrounding American history and culture related to guns, this project will objectively focus on "Gun Violence" rather than debating the merits of gun ownership.
 
-In this project, I would like to find any insight based on crime, regulation, or possibly economic data.
+In this project, I would like to find any insight based on crime, regulation, or other available data.
 
 The primary goal of this project is to contribute insights towards reducing gun violence and its victims. As such, the intended audience includes governmental officials and policymakers.
 
+### Current situation, Data and Facts
+
 We have the regulation ranking and its points for each state.
+
+According to the Everytown Gun Law Rankings, the laws are categorized into 6 groups. 
+
+We are going to focus on which category is the most effective in preventing the death rate and also what kind of laws work and don't work.
+
+Categories
+- Foundational Law
+- Gun Industry and Product Safety
+- Guns in Public
+- Keeping Guns out of the wrong hands
+- Policing and Civil rights
+- Sales and Permitting
 
 <img src="Result.png" width="800"/>
 
@@ -37,19 +53,11 @@ Case2. Are regulations lenient because regions haven't historically perceived a 
 
 Distinguishing between these two scenarios is crucial.
 
+### Analysis
+
 According to the analysis, I would recommend implementing the training program for 41 states, which can lead to the result that around 372 people can be saved per 100k every year. 
 
 How to implement the regulation? The economic, cultural, or historical difficulties would happen.
-
-According to the Everytown Gun Law Rankings, the laws are categorized into 6 groups. We are going to focus on which category is the most effective in preventing the death rate and also what kind of laws work and don't work.
-
-Categories
-- Foundational Law
-- Gun Industry and Product Safety
-- Guns in Public
-- Keeping Guns out of the wrong hands
-- Policing and Civil rights
-- Sales and Permitting
 
 Initially, data was compared between "each state's laws" and "the gun death rate per 100k" to clarify which category is the most effective in preventing death using guns.
 
@@ -68,10 +76,16 @@ And we can highlight the biggest and smallest impact items below.
 <img src="Coef_top_bottom3.png" width="800"/>
 
 If we focus on each regulation, The most significant impacted law is "Training Required to Purchase Guns", which has 9.09 people per 100,000 people.
+
 This regulation is implemented in only 9 states, therefore, the remaining 41 states can reduce the number of deaths potentially.
-Interestingly, the "No Guns in Bars" regulation has the lowest impact with a rate of 0.46, suggesting that restrictions on guns in bars have a lesser influence on gun-related deaths.
+
+Interestingly, one of the lowest impact regulations, the "No Guns in Bars" has an impact with a rate of 0.46, suggesting that restrictions on guns in bars have a lesser influence on gun-related deaths.
+
+### Notes and Future Improvement
 
 It's important to note that this is merely a binary (yes/no) analysis and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
+
+### Conclusion
 
 In conclusion, this analysis has identified specific areas of regulation that can significantly reduce gun-related tragedies. While the current study employed a binary approach, future research would benefit from more nuanced methodologies, such as machine learning, to extract deeper insights from the data. 
 
