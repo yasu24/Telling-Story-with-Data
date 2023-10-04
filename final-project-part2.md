@@ -53,20 +53,25 @@ Categories
 
 Initially, data was compared between "each state's laws" and "the gun death rate per 100k" to clarify which category is the most effective in preventing death using guns.
 
+<img src="Coef_Category.png" width="800"/>
+
+As shown above, the most efficient category is "Gun Industry and Product Safety". When a regulation is introduced to a state that doesn't have it, the number of deaths is reduced by 2.02 people per 100,000 people.
+
+On the other hand, the least effective one is "Keeping Guns out of the wrong hands", which has only a 1.07 reduction.
+
+When it comes to each regulation, we can see which regulation has more impact on the gun death rate.
+
 <img src="Coefficiency.png" width="800"/>
 
-And we can highlight the biggest and smallest impact items as below.
+And we can highlight the biggest and smallest impact items below.
 
 <img src="Coef_top_bottom3.png" width="800"/>
 
-As shown above, the most efficient category is "Gun Industry and Product Safety". When a regulation is introduced to a state that doesn't have it, the number of deaths is reduced by 2.02 people per 100,000 people.
-On the other hand, the least effective one is "Keeping Guns out of the wrong hands", which has only a 1.07 reduction.
-
-If we focus on each regulation, The biggest impacted law is "Training Required to Purchase Guns", which has 9.09 people per 100,000 people.
-This regulation is implemented in only 9 states, therefore remaining 41 states can reduce the number of deaths potentially.
+If we focus on each regulation, The most significant impacted law is "Training Required to Purchase Guns", which has 9.09 people per 100,000 people.
+This regulation is implemented in only 9 states, therefore, the remaining 41 states can reduce the number of deaths potentially.
 Interestingly, the "No Guns in Bars" regulation has the lowest impact with a rate of 0.46, suggesting that restrictions on guns in bars have a lesser influence on gun-related deaths.
 
-It's important to note that this is merely a binary (yes/no) analysis, and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
+It's important to note that this is merely a binary (yes/no) analysis and a more in-depth examination is necessary. For instance, while the study mentions a "waiting period", we need to consider the exact length of time people must wait after purchasing before actually receiving their guns.
 
 In conclusion, this analysis has identified specific areas of regulation that can significantly reduce gun-related tragedies. While the current study employed a binary approach, future research would benefit from more nuanced methodologies, such as machine learning, to extract deeper insights from the data. 
 
