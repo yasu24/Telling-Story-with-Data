@@ -1,6 +1,9 @@
-| [Home Page](https://yasu24.github.io/Telling-Story-with-Data/) | [Data Visualization Critiques](data-visualization-critiques.md) | [Data Visualization Workshops](data-visualization-workshops.md) | [Final Project Part1](final-project-part1.md) | [Final Project Part2](final-project-part2.md) | [Final Project Part3](final-project-part3.md) |
+| [Home Page](https://github.com/yasu24/Telling-Story-with-Data) | [Data Visualization Critiques](data-visualization-critiques.md) | [Data Visualization Workshops](data-visualization-workshops.md) | [Final Project Part1](final-project-part1.md) | [Final Project Part2](final-project-part2.md) | [Final Project Part3](final-project-part3.md) |
 
 # Data Visualization Workshops
+- Web page URL: [data-visualization-critiques.html](https://yasu24.github.io/Telling-Story-with-Data/data-visualization-critiques.html)
+
+- This repository: [data-visualization-workshops.md](https://github.com/yasu24/Telling-Story-with-Data/blob/main/data-visualization-workshops.md)
 
 Part 1
 
