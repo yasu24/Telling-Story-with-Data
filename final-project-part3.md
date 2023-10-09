@@ -10,10 +10,18 @@
 
 The main story is "What kind of regulation we need to enhance and add in order to reduce the number of victims of gun violence".
 The catch copy will be "Teaching is much more useful than alcohol restrictions".
-Firstly, I described the current situation regarding gun violence and white house thinks it needs to do, and my motivation which I'm interested in understanding about guns. ##(Background and To-Be)
-Secondly, I explained the data of recent years about the gun death ratio and how strict the regulations in each state are.  ##(As-Is)
-Thirdly, the analysis and correlation between these data were provided. ##(gap)
+Firstly, I described the current situation regarding gun violence and white house thinks it needs to do, and my motivation which I'm interested in understanding about guns. (Background and To-Be)
+Secondly, I explained the data of recent years about the gun death ratio and how strict the regulations in each state are.  (As-Is)
+Thirdly, the analysis and correlation between these data were provided. (gap)
 Lastly, the recommendation and suggestion part came. ##(counteractions to fill the gap)
+
+### As-Is: the current Data
+
+### Gap: Issues to resolve based on the analysis
+
+### To-Be: project goal - reduce the number of victims by gun violence
+
+### Counteractions: Suggestion part
 
 
 # Changes made since Part II
