@@ -15,13 +15,13 @@ Secondly, I explained the data of recent years about the gun death ratio and how
 Thirdly, the analysis and correlation between these data were provided.
 Lastly, the recommendation and suggestion part came. 
 
-### **As-Is:** the current Data
+**As-Is:** the current Data
 
-### **Gap:** Issues to resolve based on the analysis
+**Gap:** Issues to resolve based on the analysis
 
-### **To-Be:** project goal - reduce the number of victims of gun violence
+**To-Be:** project goal - reduce the number of victims of gun violence
 
-### **Counteractions:** Suggestion part
+**Counteractions:** Suggestion part
 
 
 # Changes made since Part II
