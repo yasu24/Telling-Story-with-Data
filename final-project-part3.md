@@ -3,25 +3,25 @@
 # Final Project Part 3
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
 [Link to Shorthand](https://preview.shorthand.com/xzEWY7pV5FWxJA4Q)
 * Recommended: Right-click the link and select "Open Link in New Tab"
 
+
 The main story is "What kind of regulation we need to enhance and add in order to reduce the number of victims of gun violence".
 The catch copy will be "Teaching is much more useful than alcohol restrictions".
-Firstly, I described the current situation regarding gun violence and white house thinks it needs to do, and my motivation which I'm interested in understanding about guns. (Background and To-Be)
-Secondly, I explained the data of recent years about the gun death ratio and how strict the regulations in each state are.  (As-Is)
-Thirdly, the analysis and correlation between these data were provided. (gap)
-Lastly, the recommendation and suggestion part came. ##(counteractions to fill the gap)
+Firstly, I described the current situation regarding gun violence restrictions what the white house thinks it needs to do, and my motivation which I'm interested in understanding about guns.
+Secondly, I explained the data of recent years about the gun death ratio and how strict the regulations in each state are.
+Thirdly, the analysis and correlation between these data were provided.
+Lastly, the recommendation and suggestion part came. 
 
-### As-Is: the current Data
+### **As-Is:** the current Data
 
-### Gap: Issues to resolve based on the analysis
+### **Gap:** Issues to resolve based on the analysis
 
-### To-Be: project goal - reduce the number of victims by gun violence
+### **To-Be:** project goal - reduce the number of victims of gun violence
 
-### Counteractions: Suggestion part
+### **Counteractions:** Suggestion part
 
 
 # Changes made since Part II
