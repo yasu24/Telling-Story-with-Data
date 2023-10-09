@@ -41,19 +41,25 @@ Lastly, the recommendation and suggestion part came.
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+**Assumed Audience**
+
+The assumed audience is general American people who have an interest in gun regulation or visitors from all other countries, particularly the country where guns are not commonly used. 
+
+**Assumed not Audience**
+
+Any people who want to promote guns for any reason, such as industry, economy, etc. This message is not convincing people, just providing insights, therefore, these people are not in the scope of this project.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story.
 
-Text here!
+The first thing I wanted to keep in mind was "to be simple", both logically and visually. In part 2, I made the story with a short version, but it was hard to understand as this was not condensed information, but just a lack of information. Also, to understand smoothly, I highlighted some sentences with pink color, which could be helpful for the audience because they can only focus on the parts.
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyrighted material and that you have added/updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+I haven't changed the dataset from part 1, therefore I haven't changed the citation and added it in shorthand as well.
 
 # Final thoughts
 > You can summarize any final thoughts/reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+After the presentation feedback.
