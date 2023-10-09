@@ -5,12 +5,21 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+[Link to Shorthand](https://preview.shorthand.com/xzEWY7pV5FWxJA4Q)
+* Recommended: Right-click the link and select "Open Link in New Tab"
+
+The main story is "What kind of regulation we need to enhance and add in order to reduce the number of victims of gun violence".
+The catch copy will be "Teaching is much more useful than alcohol restrictions".
+Firstly, I described the current situation regarding gun violence and white house thinks it needs to do, and my motivation which I'm interested in understanding about guns. ##(Background and To-Be)
+Secondly, I explained the data of recent years about the gun death ratio and how strict the regulations in each state are.  ##(As-Is)
+Thirdly, the analysis and correlation between these data were provided. ##(gap)
+Lastly, the recommendation and suggestion part came. ##(counteractions to fill the gap)
+
 
 # Changes made since Part II
 > Include a few paragraphs that reflect on changes you made since the completion of Part II. 
 
-Text here!
+
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
