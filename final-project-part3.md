@@ -15,18 +15,27 @@ Secondly, I explained the data of recent years about the gun death ratio and how
 Thirdly, the analysis and correlation between these data were provided.
 Lastly, the recommendation and suggestion part came. 
 
-### **As-Is:** the current Data
+**As-Is:** the current Data
 
-### **Gap:** Issues to resolve based on the analysis
+**Gap:** Issues to resolve based on the analysis
 
-### **To-Be:** Project goal - reduce the number of victims of gun violence
+**To-Be:** Project goal - reduce the number of victims of gun violence
 
-### **Counteractions:** Suggestion part
+**Counteractions:** Suggestion part
 
 
 # Changes made since Part II
 > Include a few paragraphs that reflect on changes you made since the completion of Part II. 
 
+| Research synthesis                       | Anticipated changes for Part 3         | **What I have changed in Part 3**           |
+|------------------------------------------|----------------------------------------|-----------------------------------------|
+| Some participants found it challenging to understand using the Shorthand version. | Transition to GitHub Story Format for better clarity. | Created a new shorthand and changed it to be aligned with the GitHub story. |
+| Bold characters in Shorthand seem ineffective in capturing the audience's attention. | Reevaluate bold characters in Shorthand and consider enhancing them. | To highlight some parts, I put pink color with bold or underline. |
+| Disconnect between the message's clarity and the context for some participants. | Strengthen the context supporting presented facts and messages. | I made a story more solid, by clarifying what the story, context, and main messages are. |
+| The shorthand version felt too brief for comprehensive understanding. | Extend Shorthand content or provide supplementary material. | Same as the second point, I added a full story regarding GitHub. |
+| Color usage inconsistency in the presentation. | Refine and ensure a consistent color scheme throughout the presentation. | To be coherent, I changed the color to be dark overall. Only the backgrounds of the graphs were kept white to emphasize it. | 
+| Issues with visualization, like cut-off graphs. | Optimize all visualizations to ensure they're displayed appropriately. | I used pictures(jpeg) and managed to focus point on Shorthand, then full pictures can be shown. |
+| The story's order might not be optimal for some participants. | Revise the narrative structure or flow for better coherence. | Story order became logically correct and more user-friendly. |
 
 
 ## The audience
