@@ -21,17 +21,16 @@ Lastly, the recommendation and suggestion part came.
 
 ### [Basic Structure]
 
-**As-Is:** the current Data
+**As-Is:** Describe the current situation using data on gun death rates and the level of regulation.
 
-**Gap:** Issues to resolve based on the analysis
+**Gap:** Identify problems based on the analysis - how to lower the gun death rate.
 
-**To-Be:** Project goal - reduce the number of victims of gun violence
+**To-Be:** Project goal - reduce the number of gun violence victims.
 
-**Counteractions:** Suggestion part
+**Counteractions:** Suggestion section - share the findings and encourage further consideration and deeper exploration.
 
 
-# Changes made since Part II
-> Include a few paragraphs that reflect on changes you made since the completion of Part II. 
+# Changes made since Part 2
 
 | Research synthesis                       | Anticipated changes for Part 3         | **What I have changed in Part 3**           |
 |------------------------------------------|----------------------------------------|-----------------------------------------|
