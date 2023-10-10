@@ -15,7 +15,7 @@ Secondly, I explained the data of recent years about the gun death ratio and how
 Thirdly, the analysis and correlation between these data were provided.
 Lastly, the recommendation and suggestion part came. 
 
-## [Basic Structure]
+### [Basic Structure]
 
 **As-Is:** the current Data
 
