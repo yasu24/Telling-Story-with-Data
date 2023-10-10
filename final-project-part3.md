@@ -2,6 +2,10 @@
 
 # Final Project Part 3
 
+Web page URL: [https://yasu24.github.io/Telling-Story-with-Data/final-project-part3.html](https://yasu24.github.io/Telling-Story-with-Data/final-project-part3.html)
+
+This repository: [https://github.com/yasu24/Telling-Story-with-Data/Final Project Part3](https://github.com/yasu24/Telling-Story-with-Data/blob/main/final-project-part3.md)
+
 # The final data story
 
 [Link to Shorthand](https://preview.shorthand.com/xzEWY7pV5FWxJA4Q)
