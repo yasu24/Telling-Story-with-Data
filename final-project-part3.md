@@ -50,7 +50,7 @@ Lastly, the recommendation and suggestion part came.
 
 The assumed audience is general American people who have an interest in gun regulation or visitors from all other countries, particularly the country where guns are not commonly used. 
 
-**Assumed NOT Audience**
+**Non-Target Audience**
 
 Any people who want to promote guns for any reason, such as industry, economy, etc. This message is not convincing people, just providing insights, therefore, these people are not in the scope of this project.
 
